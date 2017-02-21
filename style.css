@@ -547,7 +547,6 @@ a {
 
 /* * Page Banner */
 .page-banner {
-	background-image: url("images/blog-banner.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	position: relative;
